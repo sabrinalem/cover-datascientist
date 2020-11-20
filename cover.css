@@ -1,0 +1,14 @@
+body{
+    background-color: black;}
+h1 {
+    color:hsl(276, 100%, 88%); 
+    font-family: 'Montserrat';
+    position: absolute;}
+h2{
+    color:rgb(181, 245, 245); 
+    font-family: 'Montserrat';
+    position: absolute;}
+h3{
+        color:rgb(181, 245, 245); 
+        font-family: 'Montserrat';
+        position: absolute;}
